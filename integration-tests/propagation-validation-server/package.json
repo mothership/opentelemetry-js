@@ -13,7 +13,7 @@
   "dependencies": {
     "@opentelemetry/api": "^1.0.2",
     "@opentelemetry/context-async-hooks": "1.0.0",
-    "@opentelemetry/core": "1.0.0",
+    "@opentelemetry/core": "2.8.0",
     "@opentelemetry/sdk-trace-base": "1.0.0",
     "axios": "0.21.1",
     "body-parser": "1.19.0",
